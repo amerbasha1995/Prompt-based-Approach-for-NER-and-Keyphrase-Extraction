@@ -1,0 +1,2 @@
+# Prompt-based-Approach-for-NER-and-Keyphrase-Extraction
+Despite progress, tasks like Named Entity Recognition (NER) and keyphrase extraction remain challenging. Traditional methods, like fine-tuned BERT models, yield strong results but demand significant computational resources and time. The main challenge is creating more efficient methods that maintain or enhance performance with less customization
